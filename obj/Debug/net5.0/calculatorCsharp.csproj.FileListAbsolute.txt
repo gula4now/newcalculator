@@ -1,0 +1,15 @@
+C:\Users\Gbenga\source\repos\calculatorCsharp\bin\Debug\net5.0\calculatorCsharp.exe
+C:\Users\Gbenga\source\repos\calculatorCsharp\bin\Debug\net5.0\calculatorCsharp.dll
+C:\Users\Gbenga\source\repos\calculatorCsharp\obj\Debug\net5.0\calculatorCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gbenga\source\repos\calculatorCsharp\obj\Debug\net5.0\calculatorCsharp.AssemblyInfoInputs.cache
+C:\Users\Gbenga\source\repos\calculatorCsharp\obj\Debug\net5.0\calculatorCsharp.AssemblyInfo.cs
+C:\Users\Gbenga\source\repos\calculatorCsharp\obj\Debug\net5.0\calculatorCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Gbenga\source\repos\calculatorCsharp\obj\Debug\net5.0\calculatorCsharp.dll
+C:\Users\Gbenga\source\repos\calculatorCsharp\obj\Debug\net5.0\ref\calculatorCsharp.dll
+C:\Users\Gbenga\source\repos\calculatorCsharp\obj\Debug\net5.0\calculatorCsharp.pdb
+C:\Users\Gbenga\source\repos\calculatorCsharp\bin\Debug\net5.0\calculatorCsharp.deps.json
+C:\Users\Gbenga\source\repos\calculatorCsharp\bin\Debug\net5.0\calculatorCsharp.runtimeconfig.json
+C:\Users\Gbenga\source\repos\calculatorCsharp\bin\Debug\net5.0\calculatorCsharp.runtimeconfig.dev.json
+C:\Users\Gbenga\source\repos\calculatorCsharp\bin\Debug\net5.0\ref\calculatorCsharp.dll
+C:\Users\Gbenga\source\repos\calculatorCsharp\bin\Debug\net5.0\calculatorCsharp.pdb
+C:\Users\Gbenga\source\repos\calculatorCsharp\obj\Debug\net5.0\calculatorCsharp.genruntimeconfig.cache
